@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chhabraboy" target="blank"><img src="https://img.shields.io/twitter/follow/chhabraboy?logo=twitter&style=for-the-badge" alt="chhabraboy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anuragmy.fun](https://anuragmy.fun)
+- 👨‍💻 All of my projects are available at [https://anuragmy.fun](https://independentvariable.fun)
 
 - 💬 Ask me about **React, CSS, Javascript**
 
